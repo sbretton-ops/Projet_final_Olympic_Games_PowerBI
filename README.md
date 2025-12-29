@@ -68,7 +68,9 @@ Data Visualization / BI
 Power BI
 Autres outils
 Mapshaper - nettoyage et simplification de fichiers géographiques https://mapshaper.org/
+
 🏗️ Architecture du projet
+
 JO_project/ ├── scripts/ │ ├── 00_nettoyage_data_raw.ipynb │ ├── 01_visualisation_eda.ipynb │ └── webscraping/ │ │ ├── Flags.py │ │ ├── Stripped_medals.py │ │ ├── Stripped_medals_by_gender.py │ │ ├── Stripped_medals_by_sport.py │ │ └── Stripped_medals_list.py │ ├── data/ │ ├── data_raw/ │ └── data_clean/ │ ├── visualisation/ │ ├── README.md └── .gitignore
 
 Description des notebooks
