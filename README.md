@@ -91,14 +91,17 @@ Dashboard Power BI
 Notebooks Python
 Exports CSV & JSON
 Présentation PowerPoint
+
 Équipe projet
 BRETTON Stephanie
 BREUILLARD Maxime
 CARTIGNY Simon
 PAGET Pierre-Alexandre
+
 Évolutions possibles
 Ajout des nouvelles éditions des Jeux Olympiques
 Intégration des Jeux Olympiques Paralympiques
 Nouvelles analyses géopolitiques et économiques
+
 Licence
 Projet à but pédagogique utilisant exclusivement des données publiques.
